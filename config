@@ -1,0 +1,12 @@
+[user]
+	email = anuarkaliyev23@gmail.com
+	name = Khambar Dussaliyev
+
+[pull]
+	rebase = false
+
+[core]
+	excludesfile = /Users/dusaliyev/.config/git/.gitignore
+
+[includeIf "gitdir:~/code/work/"]
+	path = .gitconfig.work
