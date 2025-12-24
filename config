@@ -8,5 +8,8 @@
 [core]
 	excludesfile = /Users/dusaliyev/.config/git/.gitignore
 
+[url "git@github.kolesa-team.org:"]
+	insteadOf = https://github.kolesa-team.org/
+
 [includeIf "gitdir:~/code/work/"]
 	path = .gitconfig.work
