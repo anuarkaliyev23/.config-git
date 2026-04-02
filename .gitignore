@@ -26,3 +26,7 @@
 **/*.iml
 target/
 out/
+
+
+# Utilities
+**/.harlequin.toml
